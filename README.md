@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 CareLink — Telemedicine Web App
 
 CareLink is a full-stack telemedicine platform where users can book appointments with doctors, join secure video consultations, and manage health interactions — built with **Next.js 15 (App Router)**, **Clerk for authentication**, **Prisma ORM**, **PostgreSQL**, **Shadcn UI**, and **Vonage Video API**.
@@ -42,3 +43,9 @@ cd carelink
 
 
 
+=======
+# Full Stack Doctors Appointment Platform with Next JS, Neon, Tailwind, Vonage, Shadcn UI Tutorial 🔥🔥
+## https://www.youtube.com/watch?v=ID1PRFF1dlw
+
+<img width="1470" alt="Screenshot 2025-05-27 at 1 18 06 PM" src="https://github.com/user-attachments/assets/a0d3d443-f5e1-433a-85a7-a76a3866858d" />
+>>>>>>> 0a4a3bd (complete)
