@@ -37,6 +37,14 @@ CareLink is a full-stack telemedicine platform where users can book appointments
 
 ```bash
 git clone https://github.com/your-username/carelink.git
-cd carelink```
-### 2.khan asif
+cd carelink
+
+### 2. Install Dependencies & Setup Environment Variables
+
+```bash
+# Install project dependencies
+npm install
+# or
+pnpm install
+
 
